@@ -1,0 +1,46 @@
+body {
+    background:#CCCCCC;
+    color:0000cd;
+}
+header {
+    background:#e7e0ff;
+}
+
+p{display:inline-block;
+width: 50vw;
+}
+
+h1{
+    width: 100%;
+    color:#ffa500;
+    margin:0;
+}
+
+.box1{
+     background:#90ee90;
+}
+
+img{display:inline-block;
+    margin:30px;
+    width: 30vw;  
+}
+
+.box2{
+    background:#f0e68c;
+}
+
+.box3{
+    background:#00ff00;
+}
+
+.box4{
+    background:#00fff0;
+}
+
+.element {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16px; /* 行と列の両方に16pxのギャップを追加 */
+}
+
+

@@ -1,0 +1,17 @@
+
+
+body{
+    background-image: url(image/BLUE.jfif);
+}
+
+header{
+    background:#12e3e3;
+}
+
+p{display:inline-block;
+    width: 50vw;
+    }
+
+.box1{
+     background:#90ee90;
+}
