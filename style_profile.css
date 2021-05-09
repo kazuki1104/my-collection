@@ -9,9 +9,9 @@ header{
 }
 
 p{display:inline-block;
-    width: 50vw;
+    width: 100vw;
     }
 
 .box1{
-     background:#90ee90;
+    background:#90ee90;
 }
