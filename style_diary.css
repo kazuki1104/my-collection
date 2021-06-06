@@ -1,0 +1,21 @@
+.wrapper {
+    width: 90%;
+    display: flex;
+    margin: 20px auto;
+    justify-content: center;
+}
+
+.main_contents, .side {
+    padding: 20px;
+}
+
+.main_contents {
+    background: lightblue;
+    width: 60%;
+    margin-right: 5px;
+}
+
+.side {
+    background: skyblue;
+    width: 30%;
+}
