@@ -1,11 +1,21 @@
-body{
-    background-image: url(image/BLUE.jfif);
+.wrapper {
+    width: 90%;
+    display: flex;
+    margin: 20px auto;
+    justify-content: center;
 }
 
-header{
-    background:#12e3e3;
+.main_contents, .side {
+    padding: 20px;
 }
 
-p{display:inline-block;
-    width: 100vw;
-    }
+.main_contents {
+    background: lightblue;
+    width: 60%;
+    margin-right: 5px;
+}
+
+.side {
+    background: skyblue;
+    width: 30%;
+}
